@@ -1,1 +1,2 @@
-![Age](https://github.com/VaishnaviRChougule/Age_Calculator/assets/117535507/660c24b4-2375-49e4-84ec-10c6ec6afd99)
+
+![Age](https://github.com/VaishnaviRChougule/Age_Calculator/assets/117535507/ba70c4c2-f27d-4c64-b8fd-ecc1caf2228f)
